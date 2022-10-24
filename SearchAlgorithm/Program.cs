@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace SearchAlgorithm
 {
-    internal class Program
+    class Program
     {
+        //Array to be searched
+        int[] arr = new int[20];
         static void Main(string[] args)
         {
         }
